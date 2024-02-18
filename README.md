@@ -1,9 +1,9 @@
 # weather-app
 
-![image](https://github.com/geekxByte/weather-app/assets/123153724/830d6602-4560-4a5e-8654-bd2fab4bd9ce)
+![weather](https://github.com/geekxByte/Weather-App/assets/115074475/b58a3a40-a07b-4b4e-9b3d-a39488601f77)
 
 ## Ask for access for location
-![image](https://github.com/geekxByte/weather-app/assets/123153724/3be96999-11f1-4226-9f5d-6955723bad06)
+![location](https://github.com/geekxByte/Weather-App/assets/115074475/be7af71f-3167-4c97-a9fc-b3199f727693)
 
 
 
