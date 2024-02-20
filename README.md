@@ -4,6 +4,3 @@
 
 ## Ask for access for location
 ![location](https://github.com/geekxByte/Weather-App/assets/115074475/be7af71f-3167-4c97-a9fc-b3199f727693)
-
-
-
